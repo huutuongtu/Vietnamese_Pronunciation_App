@@ -1,0 +1,11 @@
+/home/tuht/PAPL_MHA_KALDI/MDD_Checkpoint/MHA_KALDI_embedding_nucleus.pth
+0.14349498297128044
+/home/tuht/PAPL_MHA_KALDI/MDD_Checkpoint/MHA_KALDI_embedding_nucleus.pth
+0.12716717361115162
+/home/tuht/PAPL_MHA_KALDI/MDD_Checkpoint/MHA_KALDI_embedding_nucleus.pth
+0.12558128759819726
+/home/tuht/PAPL_MHA_KALDI/MDD_Checkpoint/MHA_KALDI_embedding_nucleus.pth
+0.11998700664207369
+/home/tuht/PAPL_MHA_KALDI/MDD_Checkpoint/MHA_KALDI_embedding_nucleus.pth
+/home/tuht/PAPL_MHA_KALDI/MDD_Checkpoint/MHA_KALDI_embedding_nucleus.pth
+0.11804418379234746

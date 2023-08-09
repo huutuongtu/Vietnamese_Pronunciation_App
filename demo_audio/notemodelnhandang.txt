@@ -1,0 +1,4 @@
+tôi đến thăm anh hai tôi => tôi đến hai thanh ai toi => model nhận dạng tôi đến hai anh ai tôi => đúng kha khá
+mùa hè đến rồi => model nhận dạng : mò hè đến rồi (ò ở giữa ùa và ò khá khó nghe)=> khó 
+gấu túi => gấu tú => đúng
+bò ơi bò nghĩ => bò ơi bò nghĩ => đúng

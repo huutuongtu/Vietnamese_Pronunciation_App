@@ -1,0 +1,14 @@
+3 lỗi:
+thiếu j -> i ending
+
+ckq init ,ch,c end đều phát âm là k
+d => z
+Vấn đề model:
+
+Do tập train câu gốc ban đầu khá giống với người đọc nên mô hình đang bị bias, phụ thuộc khá nhiều vào câu gốc
+khi inference model dẫn đến việc có khi audio không có giọng nói vẫn nhận dạng ra một số âm vị trong câu gốc 
+
+Với những câu gốc ngắn => model thường có xu hướng nhận dạng giống hệt câu gốc do trên tập train, với những câu
+ngắn thì dữ liệu thường nói đúng => ảnh hưởng câu gốc mạnh
+
+=> giải pháp: masking random một số âm trong câu gốc để mô hình giảm bớt phụ thuộc vào câu gốc
